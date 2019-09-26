@@ -6,5 +6,14 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".Main5Activity">
+    <TextView
+        android:text="我是common包下Activity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 
+    <Button
+        android:id="@+id/btnGo"
+        android:text="去ModuleA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 </LinearLayout>

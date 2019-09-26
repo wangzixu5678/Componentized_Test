@@ -3,8 +3,7 @@
     package="com.xinliutong.common">
 
     <application>
-        <activity android:name=".CommonActivity" />
-        <activity android:name=".Main5Activity"></activity>
+        <activity android:name=".Main5Activity"/>
     </application>
 
 </manifest>
